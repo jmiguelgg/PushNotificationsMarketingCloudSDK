@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">testpush</string>
+    <string name="androidPushNotificationClientId">458053918391</string>
 </resources>
